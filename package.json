@@ -1,6 +1,6 @@
 {
-  "name": "expo-native-wechat",
-  "version": "0.1.4",
+  "name": "@copofe/expo-native-wechat",
+  "version": "0.3.0",
   "description": "A Expo Module for supporting Wechat APIs on Android and iOS",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -21,14 +21,13 @@
     "expo-native-wechat",
     "ExpoNativeWechat"
   ],
-  "repository": "https://github.com/Hector-Chong/expo-native-wechat",
+  "repository": "https://github.com/copofe/expo-native-wechat",
   "bugs": {
-    "url": "https://github.com/Hector-Chong/expo-native-wechat/issues"
+    "url": "https://github.com/copofe/expo-native-wechat/issues"
   },
-  "author": "Héctor Chong <i@hector.im> (https://github.com/Hector-Chong)",
+  "author": "copofe <me@shinji.me> (https://github.com/copofe)",
   "license": "MIT",
-  "homepage": "https://github.com/Hector-Chong/expo-native-wechat#readme",
-  "dependencies": {},
+  "homepage": "https://github.com/copofe/expo-native-wechat#readme",
   "devDependencies": {
     "@types/react": "^18.0.25",
     "expo-module-scripts": "^3.4.1",
